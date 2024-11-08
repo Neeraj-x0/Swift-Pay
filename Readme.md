@@ -39,5 +39,5 @@ SwiftPay is a mobile application designed to facilitate secure and fast transact
 
 ### Backend
 
-- **Spring Boot**: Backend for managing and processing transactions (not covered in this README).
+- **Maven Web App**: Backend for managing and processing transactions (not covered in this README).
 - **DBMS Mysql**
