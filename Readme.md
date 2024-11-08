@@ -1,6 +1,6 @@
 # SwiftPay
 
-SwiftPay is a mobile application designed to facilitate secure and fast transactions, allowing users to send and receive payments, view transaction histories, check balances, and more. It is built using **React Native** for the frontend and **Spring Boot** for the backend.
+SwiftPay is a mobile application designed to facilitate secure and fast transactions, allowing users to send and receive payments, view transaction histories, check balances, and more. It is built using **React Native** for the frontend and **Maven** for the backend.
 
 ## Features
 
